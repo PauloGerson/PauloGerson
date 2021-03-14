@@ -1,11 +1,16 @@
 ### Ola eu sou Paulo 👋
 
 
+==============================
+
 Estudante de Sistemas para internet no Instituto Federal de Educação Ciência e Tecnologia do Tocantins - IFTO
-=================================
+
+==============================
 * Paixão por front-end 💙
 * Gosto de desáfios 😁
 * Paixão por musica 🎵
+
+==============================
 
 ## TECNOLOGIAS QUE ESTUDO
  <img src="./img/java.png" width= "40px">
