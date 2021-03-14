@@ -1,9 +1,9 @@
-### Ola eu sou Paulo 👋
+### Ola, eu sou Paulo 👋
 <link rel="stylesheet" href="style.css">
 
 ==============================
 
-Estudante de Sistemas para internet no Instituto Federal de Educação Ciência e Tecnologia do Tocantins - IFTO
+Sou estudante de Sistemas para internet no Instituto Federal de Educação Ciência e Tecnologia do Tocantins - IFTO
 
 ==============================
 * Paixão por front-end 💙
