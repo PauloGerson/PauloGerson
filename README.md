@@ -6,9 +6,9 @@
 Sou estudante de Sistemas para internet no Instituto Federal de Educação Ciência e Tecnologia do Tocantins - IFTO
 
 ==============================
-* Paixão por front-end 💙
-* Gosto de desáfios 😁
-* Paixão por musica 🎵
+* 💙 Paixão por front-end 
+* 😁 Gosto de desáfios 
+* 🎵 Paixão por musica 
 
 ==============================
 
