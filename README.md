@@ -1,5 +1,5 @@
 ### Ola eu sou Paulo 👋
-
+<link rel="stylesheet" href="style.css">
 
 ==============================
 
@@ -22,8 +22,4 @@ Estudante de Sistemas para internet no Instituto Federal de Educação Ciência 
  <img src="./img/css.png" width= "40px">
  </div>
 
- <style type="text/css">
-    .container{
-     display: flex;
-    }
-  </style>
+
