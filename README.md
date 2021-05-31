@@ -10,7 +10,7 @@ Sou estudante de Sistemas para internet no Instituto Federal de Educação Ciên
 * 😁 Gosto de desáfios 
 * 🎵 Paixão por musica 
 
-==============================<br>
+==============================<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=PauloGerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 
 ## TECNOLOGIAS QUE ESTUDO
