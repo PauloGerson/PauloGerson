@@ -1,5 +1,5 @@
 ### Ola, eu sou Paulo 👋
-
+<link rel="stylesheet" href="style.css">
 
 ==============================
 
