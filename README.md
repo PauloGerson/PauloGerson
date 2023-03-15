@@ -18,6 +18,7 @@ Sou estudante de Sistemas para internet no Instituto Federal de Educação Ciên
  <img src="./img/javascript.png" width= "40px">
  <img src="./img/html.png" width= "40px">
  <img src="./img/css.png" width= "40px">
+  <img src="./img/node-js.png" width= "40px">
  <img src="./img/physics.png" width= "40px">
  <img src="./img/styled.png" width= "40px">
  </div>
